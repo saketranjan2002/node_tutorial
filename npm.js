@@ -1,3 +1,5 @@
+// npm init --> "To create a new project"
+// npm init -y --> "To create a new project with default settings in package.json"
 
 
 // npm - global commands,comes with Node
