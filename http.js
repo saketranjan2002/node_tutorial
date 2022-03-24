@@ -17,7 +17,9 @@ const server=http.createServer((req,res)=>{
     `) }
 
     // res.end("this is a message")
-
+ 
 })
 
-server.listen(4000)
+server.listen(4000,()=>{
+console.log("server listening to port : 4000");
+})
